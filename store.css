@@ -1,0 +1,34 @@
+body{
+    background-image: url(https://thumbs.dreamstime.com/z/fruit-doodle-illustrated-black-pen-42746225.jpg);
+    background-attachment: fixed;
+}
+.container{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+th,
+td,
+table {
+    border: 1px solid #000000;
+    ;
+    border-collapse: collapse;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+caption{
+    font-size: 50px;
+    color:#ffffff;
+    background-color: #000000;
+    font-family: cursive;
+}
+
+#tablu {
+    width: 550px;
+    margin: 40px 30px;
+}
+

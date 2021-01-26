@@ -1,0 +1,33 @@
+body{ background-image:url(https://image.shutterstock.com/image-vector/black-white-fine-art-stationary-260nw-626762084.jpg); }
+
+
+
+.spec{
+    border: 1px solid black;
+    width: 100%;
+    font:500px;
+    color: #cc5500 ;
+    margin-top: 40px;
+    text-align: center;
+    padding: 2px;
+
+}
+#maindiv{
+    background-color: #ffffff;
+    border: 1px solid black;
+    margin: 120px 60px;
+    
+    height: 100%;
+    width: inherit;
+    color:#cc5500;
+    padding: 40px;
+}
+
+.subdiv{
+    padding-top: 12px;
+    display: ;
+}
+ #submit{
+     text-align: center;
+ }
+
